@@ -12,6 +12,10 @@ meta:
 ---
 ### Enjoy interviews and percussion footage of over 25 female drummers from a variety of cultural backgrounds living in or with connection to the San Francisco Bay Area.
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/RQfc_FsPOoI" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 While drumming and percussion is an age old practice throughout humanity, women have been excluded from it in many cultures in the last several hundred years.  ​
 
 In "When the Drummers were Women: A Spiritual History of Rhythm," Layne Redmond shares careful research about the history of women as drummers and leaders of rituals. 
