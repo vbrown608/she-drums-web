@@ -1,8 +1,10 @@
-siteTitle: Yellow Cake
-siteUrl: 'https://yellowcake.netlify.com'
+siteTitle: She Drums Project
+siteUrl: 'https://shedrums.netlify.com'
 siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+  She Drums is a journey through rhythm, voice, culture, and exploring the
+  destinies of female drummers. Enjoy interviews and percussion footage of over
+  25 female drummers from a variety of cultural backgrounds living in or with
+  connection to the San Francisco Bay Area.
 socialMediaCard:
   image: 'https://ucarecdn.com/fcc8d148-a9a8-42ee-a793-0f12b1437f61/'
-googleTrackingId: 'UA-133175780-1'
+googleTrackingId: UA-133175780-1
