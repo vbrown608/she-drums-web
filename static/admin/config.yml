@@ -208,6 +208,8 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
+          - { label: Overview, name: overview, widget: markdown }
+          - { label: Video, name: video, widget: text }
           - { label: Body, name: body, widget: markdown }
           - label: 'Accordion'
             name: 'accordion'

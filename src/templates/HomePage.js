@@ -6,7 +6,7 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, overview, video, body }) => (
   <main className="Home">
     <PageHeader
       large
@@ -14,6 +14,18 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
+
+    <section className="section">
+      <div className="container">
+        <Content source={overview} />
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        <Content source={video} />
+      </div>
+    </section>
 
     <section className="section">
       <div className="container">
@@ -45,6 +57,8 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+        overview
+        video
       }
     }
   }

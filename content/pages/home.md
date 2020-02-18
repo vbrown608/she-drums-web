@@ -6,16 +6,19 @@ featuredImage: 'https://ucarecdn.com/6eedd55d-e9e6-4b5d-9044-95ad7bde3478/'
 subtitle: >-
   ### A journey through rhythm, voice, culture, and exploring the destinies of
   female drummers.
+overview: >-
+  ### Enjoy interviews and percussion footage of over 25 female drummers from a
+  variety of cultural backgrounds living in or with connection to the San
+  Francisco Bay Area.
+video: |-
+
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/RQfc_FsPOoI" frameborder="0"
+  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-### Enjoy interviews and percussion footage of over 25 female drummers from a variety of cultural backgrounds living in or with connection to the San Francisco Bay Area.
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/RQfc_FsPOoI" frameborder="0"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 While drumming and percussion is an age old practice throughout humanity, women have been excluded from it in many cultures in the last several hundred years.  ​
 
 In "When the Drummers were Women: A Spiritual History of Rhythm," Layne Redmond shares careful research about the history of women as drummers and leaders of rituals. 
