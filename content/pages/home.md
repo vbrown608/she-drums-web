@@ -1,30 +1,19 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: She Drums Project
+featuredImage: 'https://ucarecdn.com/6eedd55d-e9e6-4b5d-9044-95ad7bde3478/'
+subtitle: Make unrequired
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+### She Drums is a journey through rhythm, voice, culture, and exploring the destinies of female drummers. Enjoy interviews and percussion footage of over 25 female drummers from a variety of cultural backgrounds living in or with connection to the San Francisco Bay Area.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+While drumming and percussion is an age old practice throughout humanity, women have been excluded from it in many cultures in the last several hundred years.  ​
 
-# Features
+In "When the Drummers were Women: A Spiritual History of Rhythm," Layne Redmond shares careful research about the history of women as drummers and leaders of rituals. 
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+The She Drums project explores the taboo around female drumming in many different cultures, including the United States, and paints a picture of how many women drummers have paved the way for the craft to be more commonly accepted. There are now millions of female drummers around the world, and it's a fast growing "movement."
 
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+We also explore the themes of how women developed as drummers from childhood or later in life, obstacles they face in advancing as professionals, the different uses of drumming, and more.
