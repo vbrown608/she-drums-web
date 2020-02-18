@@ -3,12 +3,14 @@ template: HomePage
 slug: ''
 title: She Drums Project
 featuredImage: 'https://ucarecdn.com/6eedd55d-e9e6-4b5d-9044-95ad7bde3478/'
-subtitle: Make unrequired
+subtitle: >-
+  ### A journey through rhythm, voice, culture, and exploring the destinies of
+  female drummers.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-### She Drums is a journey through rhythm, voice, culture, and exploring the destinies of female drummers. Enjoy interviews and percussion footage of over 25 female drummers from a variety of cultural backgrounds living in or with connection to the San Francisco Bay Area.
+### Enjoy interviews and percussion footage of over 25 female drummers from a variety of cultural backgrounds living in or with connection to the San Francisco Bay Area.
 
 While drumming and percussion is an age old practice throughout humanity, women have been excluded from it in many cultures in the last several hundred years.  ​
 
