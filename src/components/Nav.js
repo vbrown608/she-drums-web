@@ -50,7 +50,8 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/components/">Components</NavLink>
+            <NavLink to="/about/">About</NavLink>
+            <NavLink to="/interviews/">Interviews</NavLink>
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
@@ -66,24 +67,18 @@ export class Navigation extends Component {
                 }`}
                 onClick={() => this.toggleSubNav('posts')}
               >
-                Blog
+                Support
               </span>
               <div className="Nav--GroupLinks">
-                <NavLink to="/blog/" className="Nav--GroupLink">
-                  All Posts
+                <NavLink to="/donate/" className="Nav--GroupLink">
+                  Donate
                 </NavLink>
-                {subNav.posts.map((link, index) => (
-                  <NavLink
-                    to={link.slug}
-                    key={'posts-subnav-link-' + index}
-                    className="Nav--GroupLink"
-                  >
-                    {link.title}
-                  </NavLink>
-                ))}
+                <NavLink to="/sponsor/" className="Nav--GroupLink">
+                  Sponsor
+                </NavLink>
               </div>
             </div>
-            <NavLink to="/default/">Default</NavLink>
+            <NavLink to="/resources/">Resources</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
           </div>
           <button
