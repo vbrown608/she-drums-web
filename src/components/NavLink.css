@@ -18,4 +18,10 @@
 .NavLink:focus {
   color: var(--primary);
   border-bottom-color: currentColor;
+
+}
+
+.NavLink:first-child {
+  color: inherit !important;
+  border-bottom: none !important;
 }

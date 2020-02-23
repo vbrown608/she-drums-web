@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { Location } from '@reach/router'
 import { Link } from 'gatsby'
 import { Menu, X } from 'react-feather'
+import NavLink from './NavLink'
 import Logo from './Logo'
 
 import './Nav.css'
@@ -76,7 +77,6 @@ export class Navigation extends Component {
                 </NavLink>
               </div>
             </div>
-            <NavLink to="/contact/">Contact</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"

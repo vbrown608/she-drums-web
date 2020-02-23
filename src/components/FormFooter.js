@@ -95,7 +95,7 @@ class FormFooter extends React.Component {
             <input
               className="Button Form--SubmitButton"
               type="submit"
-              value="Subscribe To Updates"
+              value="Subscribe For Updates"
               disabled={this.state.disabled}
             />
             {this.state.alert && (
