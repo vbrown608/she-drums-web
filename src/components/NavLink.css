@@ -9,10 +9,6 @@
   border-bottom-color: transparent;
 }
 
-.NavLink + .NavLink {
-  margin-left: 1rem;
-}
-
 .NavLink:hover,
 .NavLink.active,
 .NavLink:focus {
@@ -21,7 +17,7 @@
 
 }
 
-.NavLink:first-child {
+.Nav--Links > .NavLink:first-child {
   color: inherit !important;
   border-bottom: none !important;
 }

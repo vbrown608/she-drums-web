@@ -53,18 +53,17 @@ export class Navigation extends Component {
             <NavLink to="/resources/">Resources</NavLink>
             <div
               className={`Nav--Group ${
-                this.state.activeSubNav === 'posts' ? 'active' : ''
+                this.state.activeSubNav === 'support' ? 'active' : ''
               }`}
             >
               <span
                 className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('posts') ||
-                  this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('post-categories')
+                  this.props.location.pathname.includes('donate') ||
+                  this.props.location.pathname.includes('sponsor')
                     ? 'active'
                     : ''
                 }`}
-                onClick={() => this.toggleSubNav('posts')}
+                onClick={() => this.toggleSubNav('support')}
               >
                 Support
               </span>
