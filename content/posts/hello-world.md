@@ -2,13 +2,21 @@
 template: SinglePost
 title: Amber Field
 status: Featured / Published
-date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
-excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+excerpt: >
+  Amber Field is a queer, non-binary Korean American teacher, performer and
+  healer featured in San Francisco Magazine's Best of the Bay for yoga music.
+  They are a Tamalpa Associate Teacher of expressive arts. Amber studied Western
+  and Indian classical music and plays piano, tabla, esraj, didgeridoo, djembe,
+  Arabic tambourine, Native flute, harmonica, and sings like an angel. Amber
+  specializes in world fusion music and has performed and taught at SF
+  International Arts Festival, Esalen, California Academy of Sciences, SF Jazz,
+  and more. They delight in freeing people's voices and rhythm and teach Free
+  Your Voice and Free Your Voice while Drumming courses in the Bay Area. Amber
+  believes that music is medicine and that our bodies are our instruments. 
+
+
+  http://www.amberfieldmusic.com 
 meta:
   canonicalLink: ''
   description: test meta description
