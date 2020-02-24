@@ -26,3 +26,7 @@ In "When the Drummers were Women: A Spiritual History of Rhythm," Layne Redmond 
 The She Drums project explores the taboo around female drumming in many different cultures, including the United States, and paints a picture of how many women drummers have paved the way for the craft to be more commonly accepted. There are now millions of female drummers around the world, and it's a fast growing "movement."
 
 We also explore the themes of how women developed as drummers from childhood or later in life, obstacles they face in advancing as professionals, the different uses of drumming, and more.
+
+
+
+![](https://ucarecdn.com/c8755815-93ee-4317-9b8e-1f6d417ae9bb/)
