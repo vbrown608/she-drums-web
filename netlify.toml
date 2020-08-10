@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "echo $CYPRESS_CACHE_FOLDER && ls -la ./node_modules/.cache"
+  command = "npm run build"
   functions = "./functions/"
 [build.environment]
   YARN_VERSION = "1.3.2"
