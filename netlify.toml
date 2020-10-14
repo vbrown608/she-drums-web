@@ -1,6 +1,6 @@
 [build]
-  publish = "public"
-  command = "npm run build"
+  publish = "does-not-exit"
+  command = "echo foo"
   functions = "./functions/"
 [build.environment]
   YARN_VERSION = "1.3.2"
