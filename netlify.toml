@@ -2,6 +2,7 @@
   publish = "public"
   command = "echo 'foo'"
   functions = "./functions/"
+  ignore = "touch /foo"
 [build.environment]
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
